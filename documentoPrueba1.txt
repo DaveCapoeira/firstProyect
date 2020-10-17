@@ -1,3 +1,6 @@
 Este es un archivo de prueba 9:03am 17/10/2020
-
+-
 Este es una prueba en la rama "usuario1" para ver si funciona 9:10am 
+-
+-
+Esta es la prueba2 en la rama "usuario1" para rectificar un commit y pull
